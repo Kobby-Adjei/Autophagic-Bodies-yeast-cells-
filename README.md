@@ -1,0 +1,2 @@
+# Autophagic-Bodies-yeast-cells-
+This repository contains an in-depth analysis of the Cellpose neural network's performance on grayscale microscopy images for cellular segmentation. The project investigates how the model processes image features, handles transformations like flipping and splitting, and generates segmentation masks
